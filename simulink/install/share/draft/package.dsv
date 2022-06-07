@@ -1,0 +1,15 @@
+source;share\draft\hook\cmake_prefix_path.ps1
+source;share\draft\hook\cmake_prefix_path.bat
+source;share\draft\hook\cmake_prefix_path.dsv
+source;share\draft\hook\path_dll.ps1
+source;share\draft\hook\path_dll.bat
+source;share\draft\hook\path_dll.dsv
+source;share\draft\hook\path.ps1
+source;share\draft\hook\path.bat
+source;share\draft\hook\path.dsv
+source;share\draft\hook\pythonpath.ps1
+source;share\draft\hook\pythonpath.bat
+source;share\draft\hook\pythonpath.dsv
+source;share/draft/local_setup.bat
+source;share/draft/local_setup.dsv
+source;share/draft/local_setup.ps1

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\CMakeFiles\cf748c77886add0d2ffc77438b442694\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{27CC7F74-42EA-315F-B864-3EA3063C0C97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

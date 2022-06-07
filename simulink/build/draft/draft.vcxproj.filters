@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\src\draft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\src\draft_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\src\ros2nodeinterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\src\slros_busmsg_conversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0A79C70-1924-3172-BAA1-FD04CC3E6496}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

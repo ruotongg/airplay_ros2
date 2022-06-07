@@ -1,0 +1,3 @@
+source;share/ap_interfaces/environment/ament_prefix_path.bat
+source;share/ap_interfaces/environment/path.bat
+source;share/ap_interfaces/environment/pythonpath.bat

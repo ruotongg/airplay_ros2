@@ -1,0 +1,20 @@
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\SIMULINK\BUILD\AP_INTERFACES\CMAKEFILES\A1514E154A60CEDC94525C10A249F5F4\POS__ROSIDL_TYPESUPPORT_INTROSPECTION_C.H.RULE
+setlocal
+C:\Users\ifate\AppData\Roaming\MathWorks\MATLAB\R2022a\ros2\win64\venv\Scripts\python.exe "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c" --generator-arguments-file C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces/rosidl_typesupport_introspection_c__arguments.json
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\SIMULINK\SRC\AP_INTERFACES\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ifate/Documents/MATLAB/airplay/simulink/src/ap_interfaces -BC:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces --check-stamp-file C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

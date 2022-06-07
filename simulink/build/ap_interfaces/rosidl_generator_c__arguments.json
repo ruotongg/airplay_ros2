@@ -1,0 +1,24 @@
+{
+  "package_name": "ap_interfaces",
+  "output_dir": "C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces/rosidl_generator_c/ap_interfaces",
+  "template_dir": "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces/rosidl_adapter/ap_interfaces:msg/Pos.idl"
+  ],
+  "target_dependencies": [
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../../../Lib/site-packages/rosidl_generator_c/__init__.py",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/ap_interfaces/rosidl_adapter/ap_interfaces/msg/Pos.idl"
+  ]
+}

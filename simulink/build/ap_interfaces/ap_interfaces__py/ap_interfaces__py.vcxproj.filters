@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\CMakeFiles\0dd40f63314e2cf85b577eca350124ae\_ap_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\CMakeFiles\2db0be8401b53cf7c057bab1a45665ea\ap_interfaces__py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\ap_interfaces__py\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\ap_interfaces__py\CMakeFiles\ap_interfaces__py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{27CC7F74-42EA-315F-B864-3EA3063C0C97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

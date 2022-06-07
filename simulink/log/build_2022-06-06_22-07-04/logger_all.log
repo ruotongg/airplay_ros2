@@ -1,0 +1,210 @@
+[1.751s] [34mcolcon[0m [1;30mDEBUG[0m [32mCommand line arguments: ['C:\\Users\\ifate\\AppData\\Roaming\\MathWorks\\MATLAB\\R2022a\\ros2\\win64\\venv\\Scripts\\colcon', 'build', '--packages-select', 'ap_interfaces', 'draft', '--merge-install', '--base-paths', 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\src'][0m
+[1.751s] [34mcolcon[0m [1;30mDEBUG[0m [32mParsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=True, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=8, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\src'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=['ap_interfaces', 'draft'], packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x000002AA45B05A60>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x000002AA45B057F0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x000002AA45B057F0>>)[0m
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(colcon_meta) check parameters
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) check parameters
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(ignore) check parameters
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(path) check parameters
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) discover
+[1.798s] [34mcolcon.colcon_core.package_discovery[0m [1;30mINFO[0m Crawling recursively for packages in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src'
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['ignore', 'ignore_ament_install']
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'ignore'
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'ignore_ament_install'
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['colcon_pkg']
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'colcon_pkg'
+[1.799s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['colcon_meta']
+[1.800s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'colcon_meta'
+[1.800s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['ros']
+[1.800s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'ros'
+[1.829s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['cmake', 'python']
+[1.830s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'cmake'
+[1.830s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'python'
+[1.830s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extensions ['python_setup_py']
+[1.830s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src) by extension 'python_setup_py'
+[1.831s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extensions ['ignore', 'ignore_ament_install']
+[1.831s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extension 'ignore'
+[1.831s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extension 'ignore_ament_install'
+[1.831s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extensions ['colcon_pkg']
+[1.832s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extension 'colcon_pkg'
+[1.832s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extensions ['colcon_meta']
+[1.832s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extension 'colcon_meta'
+[1.832s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extensions ['ros']
+[1.832s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces) by extension 'ros'
+[1.840s] [34mcolcon.colcon_core.package_identification[0m [1;30mDEBUG[0m [32mPackage 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces' with type 'ros.ament_cmake' and name 'ap_interfaces'[0m
+[1.841s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extensions ['ignore', 'ignore_ament_install']
+[1.841s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extension 'ignore'
+[1.841s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extension 'ignore_ament_install'
+[1.841s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extensions ['colcon_pkg']
+[1.841s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extension 'colcon_pkg'
+[1.842s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extensions ['colcon_meta']
+[1.842s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extension 'colcon_meta'
+[1.842s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extensions ['ros']
+[1.842s] [34mcolcon.colcon_core.package_identification[0m [1;30mLevel 1[0m _identify(C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft) by extension 'ros'
+[1.843s] [34mcolcon.colcon_core.package_identification[0m [1;30mDEBUG[0m [32mPackage 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft' with type 'ros.ament_cmake' and name 'draft'[0m
+[1.844s] [34mcolcon.colcon_core.package_discovery[0m [1;30mLevel 1[0m discover_packages(recursive) using defaults
+[1.943s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_args' from command line to 'None'
+[1.943s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_target' from command line to 'None'
+[1.943s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[1.943s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_clean_cache' from command line to 'False'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_clean_first' from command line to 'False'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'cmake_force_configure' from command line to 'False'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'ament_cmake_args' from command line to 'None'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'catkin_cmake_args' from command line to 'None'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'ap_interfaces' build argument 'catkin_skip_building_tests' from command line to 'False'
+[1.944s] [34mcolcon.colcon_core.verb[0m [1;30mDEBUG[0m [32mBuilding package 'ap_interfaces' with the following arguments: {'ament_cmake_args': None, 'build_base': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\build\\ap_interfaces', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\install', 'merge_install': True, 'path': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\src\\ap_interfaces', 'symlink_install': False, 'test_result_base': None}[0m
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_args' from command line to 'None'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_target' from command line to 'None'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_clean_cache' from command line to 'False'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_clean_first' from command line to 'False'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'cmake_force_configure' from command line to 'False'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'ament_cmake_args' from command line to 'None'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'catkin_cmake_args' from command line to 'None'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mLevel 5[0m set package 'draft' build argument 'catkin_skip_building_tests' from command line to 'False'
+[1.960s] [34mcolcon.colcon_core.verb[0m [1;30mDEBUG[0m [32mBuilding package 'draft' with the following arguments: {'ament_cmake_args': None, 'build_base': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\build\\draft', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\install', 'merge_install': True, 'path': 'C:\\Users\\ifate\\Documents\\MATLAB\\airplay\\simulink\\src\\draft', 'symlink_install': False, 'test_result_base': None}[0m
+[1.964s] [34mcolcon.colcon_core.executor[0m [1;30mINFO[0m Executing jobs using 'parallel' executor
+[1.994s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete[0m
+[1.995s] [34mcolcon.colcon_ros.task.ament_cmake.build[0m [1;30mINFO[0m Building ROS package in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces' with build type 'ament_cmake'
+[1.995s] [34mcolcon.colcon_cmake.task.cmake.build[0m [1;30mINFO[0m Building CMake package in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces'
+[2.007s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_core.shell.sh': Not used on Windows systems
+[2.008s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[2.099s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces': C:\Program Files\CMake\bin\cmake.EXE C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces -DCMAKE_INSTALL_PREFIX=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install -G Visual Studio 16 2019[0m
+[14.634s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces' returned '0': C:\Program Files\CMake\bin\cmake.EXE C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces -DCMAKE_INSTALL_PREFIX=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install -G Visual Studio 16 2019[0m
+[14.641s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces': CL=/MP C:\Program Files\CMake\bin\cmake.EXE --build C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces --config Release[0m
+[31.953s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces' returned '0': CL=/MP C:\Program Files\CMake\bin\cmake.EXE --build C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces --config Release[0m
+[32.009s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces': C:\Program Files\CMake\bin\cmake.EXE --install C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces --config Release[0m
+[33.282s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(ap_interfaces)
+[33.286s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces' returned '0': C:\Program Files\CMake\bin\cmake.EXE --install C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces --config Release[0m
+[33.318s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake module files
+[33.324s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake config files
+[33.327s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'cmake_prefix_path')
+[33.334s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.ps1'
+[33.337s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.bat'
+[33.340s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.dsv'
+[33.343s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[33.343s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'path_dll')
+[33.352s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.ps1'
+[33.354s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.bat'
+[33.356s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.dsv'
+[33.358s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[33.358s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'path')
+[33.366s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.ps1'
+[33.368s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.bat'
+[33.370s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.dsv'
+[33.372s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Scripts'
+[33.373s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\lib\pkgconfig\ap_interfaces.pc'
+[33.373s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages'
+[33.373s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'pythonpath')
+[33.383s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.ps1'
+[33.385s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.bat'
+[33.385s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.dsv'
+[33.397s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.ps1'
+[33.400s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.bat'
+[33.403s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.dsv'
+[33.405s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\colcon-core\packages\ap_interfaces)
+[33.415s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(ap_interfaces)
+[33.428s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake module files
+[33.432s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake config files
+[33.435s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'cmake_prefix_path')
+[33.443s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.ps1'
+[33.445s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.bat'
+[33.446s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\cmake_prefix_path.dsv'
+[33.447s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[33.448s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'path_dll')
+[33.456s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.ps1'
+[33.457s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.bat'
+[33.458s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path_dll.dsv'
+[33.460s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[33.460s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'path')
+[33.467s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.ps1'
+[33.468s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.bat'
+[33.470s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\path.dsv'
+[33.472s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Scripts'
+[33.472s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\lib\pkgconfig\ap_interfaces.pc'
+[33.472s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages'
+[33.473s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('ap_interfaces', 'pythonpath')
+[33.481s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.ps1'
+[33.482s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.bat'
+[33.483s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\hook\pythonpath.dsv'
+[33.493s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.ps1'
+[33.495s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.bat'
+[33.497s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\ap_interfaces\package.dsv'
+[33.498s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\colcon-core\packages\ap_interfaces)
+[33.499s] [34mcolcon.colcon_ros.task.ament_cmake.build[0m [1;30mINFO[0m Building ROS package in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft' with build type 'ament_cmake'
+[33.499s] [34mcolcon.colcon_cmake.task.cmake.build[0m [1;30mINFO[0m Building CMake package in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft'
+[33.507s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[33.882s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft -DCMAKE_INSTALL_PREFIX=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install -G Visual Studio 16 2019[0m
+[44.461s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft' returned '0': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft -DCMAKE_INSTALL_PREFIX=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install -G Visual Studio 16 2019[0m
+[44.467s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CL=/MP CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE --build C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft --config Release[0m
+[59.877s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft' returned '0': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CL=/MP CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE --build C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft --config Release[0m
+[59.881s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoking command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE --install C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft --config Release[0m
+[60.045s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(draft)
+[60.060s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake module files
+[60.061s] [34mcolcon.colcon_core.event_handler.log_command[0m [1;30mDEBUG[0m [32mInvoked command in 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft' returned '0': AMENT_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%AMENT_PREFIX_PATH% CMAKE_PREFIX_PATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install;%CMAKE_PREFIX_PATH% PYTHONPATH=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages;%PYTHONPATH% Path=C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin;%Path% C:\Program Files\CMake\bin\cmake.EXE --install C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft --config Release[0m
+[60.063s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake config files
+[60.067s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'cmake_prefix_path')
+[60.076s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.ps1'
+[60.078s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.bat'
+[60.080s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.dsv'
+[60.081s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[60.082s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'path_dll')
+[60.092s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.ps1'
+[60.094s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.bat'
+[60.095s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.dsv'
+[60.097s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[60.097s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'path')
+[60.106s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.ps1'
+[60.108s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.bat'
+[60.110s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.dsv'
+[60.111s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Scripts'
+[60.111s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\lib\pkgconfig\draft.pc'
+[60.111s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages'
+[60.111s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'pythonpath')
+[60.121s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.ps1'
+[60.123s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.bat'
+[60.124s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.dsv'
+[60.138s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.ps1'
+[60.140s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.bat'
+[60.142s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.dsv'
+[60.142s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\colcon-core\packages\draft)
+[60.155s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_environment_scripts_only(draft)
+[60.177s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake module files
+[60.180s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install' for CMake config files
+[60.186s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'cmake_prefix_path')
+[60.199s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.ps1'
+[60.201s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.bat'
+[60.204s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\cmake_prefix_path.dsv'
+[60.206s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[60.206s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'path_dll')
+[60.216s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.ps1'
+[60.217s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.bat'
+[60.219s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path_dll.dsv'
+[60.221s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\bin'
+[60.221s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'path')
+[60.231s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.ps1'
+[60.231s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.bat'
+[60.234s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\path.dsv'
+[60.236s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Scripts'
+[60.236s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\lib\pkgconfig\draft.pc'
+[60.236s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m checking 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\Lib\site-packages'
+[60.236s] [34mcolcon.colcon_core.shell[0m [1;30mLevel 1[0m create_environment_hook('draft', 'pythonpath')
+[60.247s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.ps1'
+[60.248s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment hook 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.bat'
+[60.249s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating environment descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\hook\pythonpath.dsv'
+[60.264s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.ps1'
+[60.265s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.bat'
+[60.267s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating package descriptor 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\draft\package.dsv'
+[60.268s] [34mcolcon.colcon_core.environment[0m [1;30mLevel 1[0m create_file_with_runtime_dependencies(C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\share\colcon-core\packages\draft)
+[60.269s] [34mcolcon.colcon_parallel_executor.executor.parallel[0m [1;30mDEBUG[0m [32mrun_until_complete finished with '0'[0m
+[60.269s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoining thread[0m
+[60.293s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.notify2': 'notify2' not found
+[60.293s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.notify_send': Not used on non-Linux systems
+[60.293s] [34mcolcon.colcon_core.plugin_system[0m [1;30mINFO[0m Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[60.294s] [34mcolcon.colcon_notification.desktop_notification[0m [1;30mINFO[0m Sending desktop notification using 'win32'
+[60.306s] [34mcolcon.colcon_notification.desktop_notification.win32[0m [1;30mDEBUG[0m [32mFailed to import win32gui: DLL load failed while importing win32gui: ÕÒ²»µ½Ö¸¶¨µÄÄ£¿é¡£[0m
+[60.306s] [34mcolcon.colcon_core.event_reactor[0m [1;30mDEBUG[0m [32mjoined thread[0m
+[60.314s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\local_setup.ps1'
+[60.318s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\_local_setup_util_ps1.py'
+[60.322s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\setup.ps1'
+[60.336s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\local_setup.bat'
+[60.339s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix util module 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\_local_setup_util_bat.py'
+[60.341s] [34mcolcon.colcon_core.shell[0m [1;30mINFO[0m Creating prefix chain script 'C:\Users\ifate\Documents\MATLAB\airplay\simulink\install\setup.bat'

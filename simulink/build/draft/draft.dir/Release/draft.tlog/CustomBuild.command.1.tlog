@@ -1,0 +1,10 @@
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\SIMULINK\SRC\DRAFT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ifate/Documents/MATLAB/airplay/simulink/src/draft -BC:/Users/ifate/Documents/MATLAB/airplay/simulink/build/draft --check-stamp-file C:/Users/ifate/Documents/MATLAB/airplay/simulink/build/draft/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\rosidl_typesupport_c\ap_interfaces\msg\pos__type_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\ap_interfaces\CMakeFiles\474b40acbc324bbc2b43ae489f7cf3bd\pos__type_support.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\ap_interfaces\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{27CC7F74-42EA-315F-B864-3EA3063C0C97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DD7FBB58-3C18-38A4-989E-F75106A812D4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

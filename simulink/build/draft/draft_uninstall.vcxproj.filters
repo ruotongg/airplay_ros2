@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft\CMakeFiles\67ea90c734d4a622839a112f6ab24fdb\draft_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\src\draft\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ifate\Documents\MATLAB\airplay\simulink\build\draft\CMakeFiles\draft_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{57FD8EF0-9E08-3F59-8A85-87D3F744CD83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
