@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_typesupport_fastrtps_c\ap_interfaces\msg\detail\pos__type_support_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_typesupport_fastrtps_c\ap_interfaces\msg\detail\pos__rosidl_typesupport_fastrtps_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\CMakeFiles\ada838297a33c7379d2d0fea0dcd6e18\pos__rosidl_typesupport_fastrtps_c.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\src\ap_interfaces\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2883FC90-0446-3383-8590-2E45AC95BAB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{981BC169-97AF-3D3E-9644-0E40D578EA90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF654989-B1F8-36E1-B37B-7C87116FF6DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\CUSTOM\MATLAB_MSG_GEN\WIN64\BUILD\AP_INTERFACES\CMAKEFILES\2400C1687BC83942A4BE8D38619823F6\POS.H.RULE
+setlocal
+C:\Users\ifate\AppData\Roaming\MathWorks\MATLAB\R2022a\ros2\win64\venv\Scripts\python.exe "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c" --generator-arguments-file C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/rosidl_generator_c__arguments.json
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\CUSTOM\MATLAB_MSG_GEN\WIN64\SRC\AP_INTERFACES\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/src/ap_interfaces -BC:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces --check-stamp-file C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

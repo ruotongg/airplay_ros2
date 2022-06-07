@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_generator_py\ap_interfaces\_ap_interfaces_s.ep.rosidl_typesupport_c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\src\ap_interfaces\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF654989-B1F8-36E1-B37B-7C87116FF6DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\IFATE\DOCUMENTS\MATLAB\AIRPLAY\CUSTOM\MATLAB_MSG_GEN\WIN64\BUILD\AP_INTERFACES\CMAKEFILES\2E20C30FD37E550D58889E9A5F886E0D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/src/ap_interfaces -BC:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/ap_interfaces.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

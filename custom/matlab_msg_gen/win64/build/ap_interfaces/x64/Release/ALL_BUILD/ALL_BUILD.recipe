@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\x64\Release\ap_interfaces__cpp</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_generator_c.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_c.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_cpp.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_fastrtps_cpp.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_fastrtps_c.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_introspection_c.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces__rosidl_typesupport_introspection_cpp.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\x64\Release\ap_interfaces</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\ap_interfaces__py\x64\Release\ap_interfaces__py</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_generator_py\ap_interfaces\ap_interfaces__python.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_generator_py\ap_interfaces\ap_interfaces_s__rosidl_typesupport_c.pyd</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_generator_py\ap_interfaces\ap_interfaces_s__rosidl_typesupport_fastrtps_c.pyd</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\rosidl_generator_py\ap_interfaces\ap_interfaces_s__rosidl_typesupport_introspection_c.pyd</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\Release\ap_interfaces_matlab.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\ifate\Documents\MATLAB\airplay\custom\matlab_msg_gen\win64\build\ap_interfaces\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

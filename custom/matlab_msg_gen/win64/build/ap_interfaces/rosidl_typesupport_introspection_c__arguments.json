@@ -1,0 +1,19 @@
+{
+  "package_name": "ap_interfaces",
+  "output_dir": "C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/rosidl_typesupport_introspection_c/ap_interfaces",
+  "template_dir": "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/rosidl_adapter/ap_interfaces:msg/Pos.idl"
+  ],
+  "target_dependencies": [
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/Lib/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "C:/Program Files/MATLAB/R2022a/sys/ros2/win64/ros2/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "C:/Users/ifate/Documents/MATLAB/airplay/custom/matlab_msg_gen/win64/build/ap_interfaces/rosidl_adapter/ap_interfaces/msg/Pos.idl"
+  ]
+}
